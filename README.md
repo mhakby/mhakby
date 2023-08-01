@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm M.Hadi Akbey</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
 
-- 🌱 I’m currently learning **React, Sass, React-Redux, Redux-Toolkit, TypeScript, Python.**
+- 🌱 I’m currently learning **JavaScript, React, Sass, React-Redux, Redux-Toolkit, TypeScript, Python.**
 
-- 👯 I’m looking to collaborate on **JavaScript, React, Python and Blockchain technologies**
+- 👯 I’m looking to collaborate on **Web & Mobile projects.**
 
 - 🤝 I’m looking for help with **React, React-Native, Python and Solidity.**
 
